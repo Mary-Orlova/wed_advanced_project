@@ -1,0 +1,45 @@
+:root {
+  /* Шрифт */
+  --regular: 400;
+  --semibold: 600;
+  --bold: 700;
+  --dafault-fs: 16px;
+  --fs-14: 14px;
+  --fs-18: 18px;
+  --fs-24: 24px;
+  --fs-32: 32px;
+  --fs-48: 48px;
+  --fs-60: 60px;
+
+  /* Размеры*/
+  --body--min-width: 320px;
+  --container-max-width: 1380px;
+  --container-padding: 50px;
+}
+
+/* Цвет */
+$white: #fff;
+$violet: #a65cf0;
+$violet_light: #c998fb;
+$violet_shade: #7033ac;
+$lilac: #ebd1ff;
+$lilac_light: #f8efff;
+$black: #333;
+$grey_fog: #eaeaea;
+$grey: #999;
+$grey_light: #f6f6f6;
+$grey_shade: #666;
+$orange: #ff862f;
+$orange_light: #ffbd59;
+$red: #bb370e;
+$yellow: #fff5d1;
+$gold: #d5b986;
+
+/* Анимация */
+$trans-color: color 0.2s ease-in-out;
+$trans-Bcolor: background-color 0.2s ease-in-out;
+$trans-BI: background-image 0.2s ease-in-out;
+$trans-border: border 0.2s ease-in-out;
+$trans-outline: outline 0.2s ease-in-out;
+$trans-fill: fill 0.2s ease-in-out;
+$trans-background: background 0.2s ease-in-out;
