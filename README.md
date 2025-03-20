@@ -1,6 +1,6 @@
 Сайт sitDownPls 
 
-Включает в себя 3 страницы:Главная, каталог и карточка товара.
+Включает в себя 3 страницы: Главная, каталог и карточка товара.
 
 <b>Главная</b>
 <img width="1065" alt="Снимок экрана Главная страница 1" src="https://raw.githubusercontent.com/Mary-Orlova/wed_advanced_project/refs/heads/main/screens/1.jpg">
